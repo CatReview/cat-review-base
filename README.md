@@ -8,4 +8,4 @@
 Подробнее почитать и обсудить концепт и игровые механики можно в дискуссии: https://github.com/CatReview/cat-review-base/issues/1
 
 # Что по стеку 🧑🏻‍💻?
-Пока обсуждаем. Сейчас есть идея реализовать проект на [Kotlin Multiplatform Project (MPP)](https://kotlinlang.org/docs/reference/multiplatform.html).
+Пока обсуждаем. Есть идея реализовать проект на [Kotlin Multiplatform Project (MPP)](https://kotlinlang.org/docs/reference/multiplatform.html).
